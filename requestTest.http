@@ -1,0 +1,4 @@
+@baseUrl = http://localhost:3000
+
+### Route GET /
+GET {{baseUrl}}/alltimework
